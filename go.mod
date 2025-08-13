@@ -1,4 +1,4 @@
-module kubevirt.io/client-go
+module github.com/paulrichter2001/client-go
 
 go 1.24.6
 
